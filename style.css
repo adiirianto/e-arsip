@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; background: #f4f6f8; margin: 0; padding: 0; }
+#app { max-width: 600px; margin: auto; padding: 20px; }
+.page { background: white; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+input { display: block; width: 100%; margin-bottom: 10px; padding: 10px; }
+button { padding: 10px; background: #007bff; color: white; border: none; cursor: pointer; border-radius: 5px; }
+button:hover { background: #0056b3; }
+#file-list div { background: #eee; padding: 5px; margin: 5px 0; border-radius: 5px; }
